@@ -7,7 +7,24 @@ h1 {
     font-size: 50px;
 }
 
+.a {
+    color: yellow;
+}
+
 section {
 
     display: flex;
+
+}
+
+.b {
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.b img {
+    width: 80%;
+    padding-left: 100px;
+    padding-top: 100px;
 }
