@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 h1 {
@@ -12,9 +13,8 @@ h1 {
 }
 
 section {
-
     display: flex;
-
+    margin-bottom: 10px;
 }
 
 .b {
@@ -27,4 +27,52 @@ section {
     width: 80%;
     padding-left: 100px;
     padding-top: 100px;
+}
+
+.d {
+
+    width: 82%;
+
+}
+
+.e {
+    text-decoration: none;
+    color: aliceblue;
+    background-image: linear-gradient(orange, tomato);
+    width: 80px;
+    height: 40;
+    padding: 5px 20px;
+    height: 15 px;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    border-radius: 10px;
+
+
+}
+
+.background-img {
+
+    display: ;
+
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+
+
+}
+
+.Dream {
+
+
+    margin-top: 20px;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.pic {
+
+    width: 50px;
+
+
 }
