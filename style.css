@@ -9,10 +9,10 @@ h1 {
 }
 
 .a {
-    color: yellow;
+    color: blue;
 }
 
-section {
+.flex {
     display: flex;
     margin-bottom: 10px;
 }
@@ -53,7 +53,7 @@ section {
 
 .background-img {
 
-    display: ;
+    display: flex;
 
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
@@ -75,4 +75,52 @@ section {
     width: 50px;
 
 
+}
+
+.Experience {
+    padding-left: 50px;
+}
+
+.half {
+
+    width: 60%;
+    padding-left: 80px;
+    padding: 80px;
+
+}
+
+footer {
+    text-align: center;
+}
+
+.color {
+    color: orange;
+}
+
+#last {
+
+    border-left: 5px solid red;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+
+}
+
+#one {
+    margin-left: 100px;
+    border-left: 5px solid rgb(76, 0, 255);
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+
+
+}
+
+.back {
+
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
